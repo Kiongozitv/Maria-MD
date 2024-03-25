@@ -4,8 +4,8 @@ const chalk = require('chalk')
 //contact details
 global.ownernumber =  "254114244952"
 global.ownername = "kiongozi🖤"
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
+global.ytname = "YT: KiongoziTV"
+global.socialm = "GitHub: kiongozi"
 global.location = "Indian"
 
 global.ownername = 'kiongozi🖤' //owner name
@@ -41,9 +41,9 @@ global.autoread_status = false //auto view status/story
 global.mess = {
     done: '*here you go!* \n\n*🎀 Maria Bot 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/AYUSH-PANDEY023/Maria-MD\n',
     prem: '*This feature can be used by premium user only*',
-    admin: '*This feature can be used by admin only*',
+    admin: '*This feature can be used by kiongozi only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
-    owner: '*This feature can be used by owner only*',
+    owner: '*This feature can be used by kiongozi only*',
     group: '*This feature is only for groups*',
     private: '*This feature is only for private chats*',
     wait: '*In process...* ',    
